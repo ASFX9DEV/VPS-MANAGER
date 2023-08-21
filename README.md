@@ -1,21 +1,29 @@
 
-__@bite_Atlantus 1.0__
+__ASFX9DEV 1.0__
 
 __Recomendado__
 - Ubuntu 18
 
-![logo](https://github.com/abraaosantobmx/VPS/blob/main/home.png)
+![logo](https://github.com/ASFX9DEV/VPS/blob/main/home.png)
 
 __Instalar apenas o SCRIPT__
 
-```wget https://raw.githubusercontent.com/abraaosantobmx/VPS/main/Plus; chmod 777 Plus;./Plus```
+```
+wget https://raw.githubusercontent.com/ASFX9DEV/VPS/main/Plus; chmod 777 Plus;./Plus
+```
 
 __Instalar o SCRIPT e atualizar pacotes do sistema__
 
-```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/abraaosantobmx/VPS/main/Plus; chmod 777 Plus;./Plus```
+```
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ASFX9DEV/VPS/main/Plus; chmod 777 Plus;./Plus
+```
 
 __Alterar senha Root__
 
-```sudo -i```
+```
+sudo -i
+```
 
-```bash <(wget -qO- https://raw.githubusercontent.com/abraaosantobmx/VPS/main/senharoot.sh)```
+```
+bash <(wget -qO- https://raw.githubusercontent.com/ASFX9DEV/VPS/main/senharoot.sh)
+```
